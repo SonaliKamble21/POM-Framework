@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36244" started-at="2021-09-16T17:54:23Z" finished-at="2021-09-16T17:54:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36244" started-at="2021-09-16T17:54:23Z" finished-at="2021-09-16T17:54:59Z">
+      <class name="LoginPageTest">
+        <test-method status="PASS" signature="verifyCRMLogin()[pri:0, instance:LoginPageTest@50c87b21]" name="verifyCRMLogin" duration-ms="36160" started-at="2021-09-16T23:24:23Z" finished-at="2021-09-16T23:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCRMLogin -->
+      </class> <!-- LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
